@@ -1,8 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-
-
-	<!-- Park 1: Grand Canyon - Rating present, multiple phones -->
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
@@ -16,8 +13,6 @@
 			<Zip>86023</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 2: Yellowstone - Rating present, multiple phones -->
 	<NationalPark Rating="4.8">
 		<Name>Yellowstone</Name>
 		<Phone>307-344-7381</Phone>
@@ -30,8 +25,6 @@
 			<Zip>82190</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 3: Yosemite - Rating present, single phone -->
 	<NationalPark Rating="4.9">
 		<Name>Yosemite</Name>
 		<Phone>209-372-0200</Phone>
@@ -43,8 +36,6 @@
 			<Zip>95389</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 4: Zion - No Rating -->
 	<NationalPark>
 		<Name>Zion</Name>
 		<Phone>435-772-3256</Phone>
@@ -56,8 +47,6 @@
 			<Zip>84767</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 5: Rocky Mountain - Rating present, multiple phones -->
 	<NationalPark Rating="4.7">
 		<Name>Rocky Mountain</Name>
 		<Phone>970-586-1206</Phone>
@@ -70,8 +59,6 @@
 			<Zip>80517</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 6: Olympic - No Rating) -->
 	<NationalPark>
 		<Name>Olympic</Name>
 		<Phone>360-565-3130</Phone>
@@ -83,8 +70,6 @@
 			<Zip>98362</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 7: Acadia - Rating present, multiple phones -->
 	<NationalPark Rating="4.8">
 		<Name>Acadia</Name>
 		<Phone>207-288-3338</Phone>
@@ -97,8 +82,6 @@
 			<Zip>04609</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 8: Great Smoky Mountains - No Rating -->
 	<NationalPark>
 		<Name>Great Smoky Mountains</Name>
 		<Phone>865-436-1200</Phone>
@@ -110,8 +93,6 @@
 			<Zip>37738</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 9: Glacier - Rating present, single phone -->
 	<NationalPark Rating="4.9">
 		<Name>Glacier</Name>
 		<Phone>406-888-7800</Phone>
@@ -123,8 +104,6 @@
 			<Zip>59936</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 10: Joshua Tree - No Rating -->
 	<NationalPark>
 		<Name>Joshua Tree</Name>
 		<Phone>760-367-5500</Phone>
@@ -136,8 +115,6 @@
 			<Zip>92277</Zip>
 		</Address>
 	</NationalPark>
-
-	<!-- Park 11: Bryce Canyon - Rating present, multiple phones -->
 	<NationalPark Rating="4.8">
 		<Name>Bryce Canyon</Name>
 		<Phone>435-834-5322</Phone>
@@ -150,5 +127,4 @@
 			<Zip>84764</Zip>
 		</Address>
 	</NationalPark>
-
 </NationalParks>

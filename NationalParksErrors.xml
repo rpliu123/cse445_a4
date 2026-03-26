@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="XSD_URL_HERE">
 
 	<!-- Park 1: Grand Canyon - Rating present, multiple phones -->
 	<NationalPark Rating="4.9">
